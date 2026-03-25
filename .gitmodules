@@ -1,0 +1,12 @@
+[submodule "kairos-finance"]
+	path = kairos-finance
+	url = https://github.com/Sharanx77/kairosfinance.git
+[submodule "rsvp-system"]
+	path = rsvp-system
+	url = https://github.com/Sharanx77/RSVP_SYSTEM.git
+[submodule "resume-builder"]
+	path = resume-builder
+	url = https://github.com/Sharanx77/smart-resume-builder.git
+[submodule "website-converter"]
+	path = website-converter
+	url = https://github.com/Sharanx77/.md_to_website_converter.git
