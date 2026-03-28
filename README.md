@@ -13,7 +13,7 @@ A dedicated platform focused on financial tracking and management logic.
 * **Core Focus:** Applying systematic logic to personal finance and wealth tracking.
 * **Inspiration:** Developed alongside my study of financial discipline and books like *Trading in the Zone*.
 * **Tech:** Python-based logic and data management.
-[**LINK TO THE WEBSITE**](https://kairos-finance-self.vercel.app)
+* [**LINK TO THE WEBSITE**](https://kairos-finance-self.vercel.app)
 
 ### 2. Smart Resume Builder
 An automated tool designed to generate professional, industry-standard resumes.
