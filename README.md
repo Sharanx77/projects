@@ -20,18 +20,21 @@ An automated tool designed to generate professional, industry-standard resumes.
 * **The Goal:** To bridge the gap between content and formatting, helping students create clean, structured resumes.
 * **Key Features:** Dynamic input handling, real-time formatting, and responsive export options.
 * **Tech:** JavaScript (ES6+), HTML5, and CSS3.
+* [**LINK TO THE WEBSITE**](https://smart-resume-builder-gamma.vercel.app)
 
 ### 3. RSVP System (Event Management)
 A robust full-stack Django application for organizing events and tracking guest responses.
 * **Functionality:** Handles secure user authentication, event creation dashboards, and real-time RSVP tracking.
 * **Design:** Focused on database integrity and a seamless, mobile-friendly user experience.
 * **Tech:** Django, Python, SQLite, Bootstrap.
+* [**LINK TO THE WEBSITE**](https://md-to-website-converter.vercel.app)
 
 ### 4. ECHO Compiler (Markdown to Website)
 A high-efficiency converter that transforms Markdown files into fully themed portfolio websites.
 * **Purpose:** To simplify the web-building process by allowing users to focus on content while the compiler handles the code.
 * **Highlights:** Fast Markdown parsing and multiple responsive theme selections.
 * **Tech:** JavaScript, Markdown-IT.
+* [**LINK TO THE WEBSITE**](https://rsvp-system-lime.vercel.app)
 
 ---
 
